@@ -31,7 +31,7 @@ This sets up port forwarding so that your remote jupyter server will forward tra
 
       the `-p` flag allows you to specify where you want to install Anaconda
 
-- Add Anaconda to your python path. Open your bashrc file, and add the following line to the end:
+- Add Anaconda to your python path. Open your bashrc file, and add the following line to the end of the file:
 > export PATH=$HOME/anaconda3/bin:$PATH
 
 - Check that it was added correctly
