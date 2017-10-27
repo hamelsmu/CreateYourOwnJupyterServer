@@ -1,6 +1,6 @@
 # Step 1: Add shortcuts to your local instance for SSH
 
--  On MacOSX, Open your `bash_profile` and place an alias in there like this
+-  On MacOSX, Open your `.bash_profile` and place an alias in there like this
 ```
 alias jupssh="ssh -L 7654:localhost:7654 some-computer.net"
 ```
