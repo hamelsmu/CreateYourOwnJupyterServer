@@ -4,7 +4,7 @@
 ```
 alias jupssh="ssh -L 7654:localhost:7654 some-computer.net"
 ```
-This sets up port forwarding so that your remote jupyter server will forward traffic to your local computer
+This sets up port forwarding so that your remote jupyter server will forward traffic to your local computer.  *On Mac, you can find your bash_profile at `~/.bash_profile`*
 
 - Still on your Mac, Load your bash_profile. In terminal:
 > source ~/.bash_profile
