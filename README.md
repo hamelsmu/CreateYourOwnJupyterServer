@@ -16,7 +16,7 @@ This sets up port forwarding so that your remote jupyter server will forward tra
 - install byobu on remote machine
 > sudo apt-get install byobu; byobu-enable;
 
-  Getting used to it takes a bit getting used to but isn't bad at all. [see common hotkeys](https://medium.com/russian-it-stories/byobu-cheatsheet-%D0%BCost-used-hotkeys-5a8bbd8476fd)
+  Takes a bit getting used to but isn't bad at all. [see common hotkeys](https://medium.com/russian-it-stories/byobu-cheatsheet-%D0%BCost-used-hotkeys-5a8bbd8476fd)
 
 # Step 3: Install Anaconda on Remote Machine
 
