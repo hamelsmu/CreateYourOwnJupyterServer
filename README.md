@@ -9,7 +9,7 @@ This sets up port forwarding so that your remote jupyter server will forward tra
 - Still on your Mac, Load your bash_profile. In terminal:
 > source ~/.bash_profile
 
-# Step 2: Login To Remote Machine Install Byobu
+# Step 2: Login To Remote Machine & Install Byobu
 - login to remote server with the alias you just created!, In Terminal
 > jupssh
 
